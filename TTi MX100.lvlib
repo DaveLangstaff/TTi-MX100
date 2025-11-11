@@ -24,9 +24,10 @@ Thurlby Thandar MX100 DC power supply</Property>
 		</Item>
 		<Item Name="Configure" Type="Folder">
 			<Item Name="Configure.mnu" Type="Document" URL="/&lt;instrlib&gt;/TTi MX100/Public/Configure/Configure.mnu"/>
-			<Item Name="Configure Current Limit.vi" Type="VI" URL="/&lt;instrlib&gt;/TTi-MX100/Public/Configure/Configure Current Limit.vi"/>
 			<Item Name="Configure OCP.vi" Type="VI" URL="/&lt;instrlib&gt;/TTi-MX100/Public/Configure/Configure OCP.vi"/>
-			<Item Name="Configure Output.vi" Type="VI" URL="/&lt;instrlib&gt;/TTi-MX100/Public/Configure/Configure Output.vi"/>
+			<Item Name="Configure Output OnOff.vi" Type="VI" URL="/&lt;instrlib&gt;/TTi-MX100/Public/Configure/Configure Output OnOff.vi"/>
+			<Item Name="Configure Output Current.vi" Type="VI" URL="/&lt;instrlib&gt;/TTi-MX100/Public/Configure/Configure Output Current.vi"/>
+			<Item Name="Configure Output Volts.vi" Type="VI" URL="/&lt;instrlib&gt;/TTi-MX100/Public/Configure/Configure Output Volts.vi"/>
 			<Item Name="Configure OVP.vi" Type="VI" URL="/&lt;instrlib&gt;/TTi-MX100/Public/Configure/Configure OVP.vi"/>
 		</Item>
 		<Item Name="Data" Type="Folder">
