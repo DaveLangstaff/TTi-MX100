@@ -12,38 +12,38 @@ Thurlby Thandar MX100 DC power supply</Property>
 	<Item Name="Private" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 		<Property Name="NI.SortType" Type="Int">3</Property>
-		<Item Name="Default Instrument Setup.vi" Type="VI" URL="/&lt;instrlib&gt;/TTi MX100/Private/Default Instrument Setup.vi"/>
+		<Item Name="Default Instrument Setup.vi" Type="VI" URL="/&lt;instrlib&gt;/TTi-MX100/Private/Default Instrument Setup.vi"/>
 	</Item>
 	<Item Name="Public" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
 		<Property Name="NI.SortType" Type="Int">3</Property>
 		<Item Name="Action-Status" Type="Folder">
 			<Item Name="Action-Status.mnu" Type="Document" URL="/&lt;instrlib&gt;/TTi MX100/Public/Action-Status/Action-Status.mnu"/>
-			<Item Name="Output Protection Status.vi" Type="VI" URL="/&lt;instrlib&gt;/TTi MX100/Public/Action-Status/Output Protection Status.vi"/>
-			<Item Name="Reset Output Protection.vi" Type="VI" URL="/&lt;instrlib&gt;/TTi MX100/Public/Action-Status/Reset Output Protection.vi"/>
+			<Item Name="Output Protection Status.vi" Type="VI" URL="/&lt;instrlib&gt;/TTi-MX100/Public/Action-Status/Output Protection Status.vi"/>
+			<Item Name="Reset Output Protection.vi" Type="VI" URL="/&lt;instrlib&gt;/TTi-MX100/Public/Action-Status/Reset Output Protection.vi"/>
 		</Item>
 		<Item Name="Configure" Type="Folder">
 			<Item Name="Configure.mnu" Type="Document" URL="/&lt;instrlib&gt;/TTi MX100/Public/Configure/Configure.mnu"/>
-			<Item Name="Configure Current Limit.vi" Type="VI" URL="/&lt;instrlib&gt;/TTi MX100/Public/Configure/Configure Current Limit.vi"/>
-			<Item Name="Configure OCP.vi" Type="VI" URL="/&lt;instrlib&gt;/TTi MX100/Public/Configure/Configure OCP.vi"/>
-			<Item Name="Configure Output.vi" Type="VI" URL="/&lt;instrlib&gt;/TTi MX100/Public/Configure/Configure Output.vi"/>
-			<Item Name="Configure OVP.vi" Type="VI" URL="/&lt;instrlib&gt;/TTi MX100/Public/Configure/Configure OVP.vi"/>
+			<Item Name="Configure Current Limit.vi" Type="VI" URL="/&lt;instrlib&gt;/TTi-MX100/Public/Configure/Configure Current Limit.vi"/>
+			<Item Name="Configure OCP.vi" Type="VI" URL="/&lt;instrlib&gt;/TTi-MX100/Public/Configure/Configure OCP.vi"/>
+			<Item Name="Configure Output.vi" Type="VI" URL="/&lt;instrlib&gt;/TTi-MX100/Public/Configure/Configure Output.vi"/>
+			<Item Name="Configure OVP.vi" Type="VI" URL="/&lt;instrlib&gt;/TTi-MX100/Public/Configure/Configure OVP.vi"/>
 		</Item>
 		<Item Name="Data" Type="Folder">
 			<Item Name="Data.mnu" Type="Document" URL="/&lt;instrlib&gt;/TTi MX100/Public/Data/Data.mnu"/>
-			<Item Name="Read Output.vi" Type="VI" URL="/&lt;instrlib&gt;/TTi MX100/Public/Data/Read Output.vi"/>
+			<Item Name="Read Output.vi" Type="VI" URL="/&lt;instrlib&gt;/TTi-MX100/Public/Data/Read Output.vi"/>
 		</Item>
 		<Item Name="Utility" Type="Folder">
 			<Item Name="Utility.mnu" Type="Document" URL="/&lt;instrlib&gt;/TTi MX100/Public/Utility/Utility.mnu"/>
-			<Item Name="Error Query.vi" Type="VI" URL="/&lt;instrlib&gt;/TTi MX100/Public/Utility/Error Query.vi"/>
-			<Item Name="Reset.vi" Type="VI" URL="/&lt;instrlib&gt;/TTi MX100/Public/Utility/Reset.vi"/>
-			<Item Name="Revision Query.vi" Type="VI" URL="/&lt;instrlib&gt;/TTi MX100/Public/Utility/Revision Query.vi"/>
-			<Item Name="Self-Test.vi" Type="VI" URL="/&lt;instrlib&gt;/TTi MX100/Public/Utility/Self-Test.vi"/>
+			<Item Name="Error Query.vi" Type="VI" URL="/&lt;instrlib&gt;/TTi-MX100/Public/Utility/Error Query.vi"/>
+			<Item Name="Reset.vi" Type="VI" URL="/&lt;instrlib&gt;/TTi-MX100/Public/Utility/Reset.vi"/>
+			<Item Name="Revision Query.vi" Type="VI" URL="/&lt;instrlib&gt;/TTi-MX100/Public/Utility/Revision Query.vi"/>
+			<Item Name="Self-Test.vi" Type="VI" URL="/&lt;instrlib&gt;/TTi-MX100/Public/Utility/Self-Test.vi"/>
 		</Item>
 		<Item Name="dir.mnu" Type="Document" URL="/&lt;instrlib&gt;/TTi MX100/Public/dir.mnu"/>
-		<Item Name="Close.vi" Type="VI" URL="/&lt;instrlib&gt;/TTi MX100/Public/Close.vi"/>
-		<Item Name="Initialize.vi" Type="VI" URL="/&lt;instrlib&gt;/TTi MX100/Public/Initialize.vi"/>
-		<Item Name="VI Tree.vi" Type="VI" URL="/&lt;instrlib&gt;/TTi MX100/Public/VI Tree.vi"/>
+		<Item Name="Close.vi" Type="VI" URL="/&lt;instrlib&gt;/TTi-MX100/Public/Close.vi"/>
+		<Item Name="Initialize.vi" Type="VI" URL="/&lt;instrlib&gt;/TTi-MX100/Public/Initialize.vi"/>
+		<Item Name="VI Tree.vi" Type="VI" URL="/&lt;instrlib&gt;/TTi-MX100/Public/VI Tree.vi"/>
 	</Item>
 	<Item Name="TTi MX100 Readme.html" Type="Document" URL="/&lt;instrlib&gt;/TTi MX100/TTi MX100 Readme.html"/>
 </Library>

@@ -7,8 +7,9 @@
 		<Property Name="NI.SortType" Type="Int">3</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Examples" Type="Folder"/>
-		<Item Name="TTi MX100 Output DC Volts.vi" Type="VI" URL="/&lt;instrlib&gt;/TTi MX100/Public/Configure/TTi MX100 Output DC Volts.vi"/>
-		<Item Name="TTi MX100.lvlib" Type="Library" URL="/&lt;instrlib&gt;/TTi MX100/TTi MX100.lvlib"/>
+		<Item Name="TTi MX100 Output DC Volts.vi" Type="VI" URL="/&lt;instrlib&gt;/TTi-MX100/Public/Configure/TTi MX100 Output DC Volts.vi"/>
+		<Item Name="TTi MX100.lvlib" Type="Library" URL="/&lt;instrlib&gt;/TTi-MX100/TTi MX100.lvlib"/>
+		<Item Name="ChannelSelector.ctl" Type="VI" URL="/&lt;instrlib&gt;/TTi-MX100/ChannelSelector.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
